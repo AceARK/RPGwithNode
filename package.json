@@ -1,0 +1,22 @@
+{
+  "name": "rpgnode",
+  "version": "1.0.0",
+  "description": "RPG with Node and Inquirer",
+  "main": "characterCreate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceARK/RPGwithNode.git"
+  },
+  "author": "Ace a.k.a Akhila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AceARK/RPGwithNode/issues"
+  },
+  "homepage": "https://github.com/AceARK/RPGwithNode#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1"
+  }
+}
